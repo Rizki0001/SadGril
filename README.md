@@ -10,7 +10,7 @@
 <a href="#"><img title="termux-whatsapp-bot" src="https://img.shields.io/badge/-TERMUX--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/NazwaS"><img title="Author" src="https://img.shields.io/badge/AUTHOR-NAZWAS-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/NazwaS"><img title="Author" src="https://img.shields.io/badge/AUTHOR-IQBAL-orange?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/NazwaS/followers"><img title="Followers" src="https://img.shields.io/github/followers/NazwaS?style=flat-square"></a>
@@ -269,4 +269,4 @@ Follow The Steps Below!
 - [mrfzvx12](https://github.com/mrfzvx12)
 - [Mr-hadi](https://github.com/Mr-hadi)
 - [MhankBarBar](https://github.com/mhankbarbar)
-- [iqbal]
+- [iqbal](https://github.com/Rizki0001/SadGril)
